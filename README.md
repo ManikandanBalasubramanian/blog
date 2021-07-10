@@ -1,2 +1,1 @@
-# blog
-My name is Manikandan and this is my blog
+My name is Manikandan and I'm a Mechanical Engineer working as a DevOps for AI/ML in ZOHO Corp. This repo is to write about the things that fascinates me. I got inspired by my [colleague](https://github.com/scarecrow1123/blog) to write blogs using the issues tab. You can find the actual blog entries in the [Issues](https://github.com/ManikandanBalasubramanian/blog/issues) tab of this repo.
